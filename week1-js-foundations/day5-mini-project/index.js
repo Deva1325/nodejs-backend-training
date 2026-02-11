@@ -69,4 +69,3 @@ console.log("------------------------------------");
 const EmpByID=getEmployeeById(employees,2);
 console.log("Employee With ID :",EmpByID);
 
-///home/differenz103/Devanshi_Trainee/nodejs-backend-training/week1-js-foundations/day5-mini-project
